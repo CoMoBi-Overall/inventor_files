@@ -1,2 +1,3 @@
 # inventor_files
-comobot inventor modeling files
+ComMoBot inventor modeling files
+!only for windows environemnt!
